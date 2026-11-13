@@ -1,0 +1,2971 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_001",
+      "name": "PV Admin",
+      "email": "admin@pvnutrition.com",
+      "phone": "90477 93275",
+      "password_hash": "$2b$10$PtW3AerQoJJuJDCJ0x.mbuVngi1I3Spsl6kCYJhqyqF8osHVi0Yba",
+      "role": "admin",
+      "created_at": "2026-10-05T08:35:07.465Z"
+    },
+    {
+      "id": "usr_coach_palani",
+      "name": "Palani Manickam",
+      "email": "palani@pvnutrition.com",
+      "phone": "90477 93275",
+      "password_hash": "$2b$10$N9BKXCKlel9mF/BJWyCtX.qaWojFL7ZiAm2Y/DtsqjQsYABG8SXAa",
+      "role": "coach",
+      "created_at": "2026-10-05T08:35:07.545Z"
+    },
+    {
+      "id": "usr_coach_vijaya",
+      "name": "Vijayashanthi",
+      "email": "vijayashanthi@pvnutrition.com",
+      "phone": "74182 78569",
+      "password_hash": "$2b$10$mlY3u44wKIL1hbt4Rck2XOLTg2ZQAMZ5nKlKmbwux2F7akJTrCPoy",
+      "role": "coach",
+      "created_at": "2026-10-05T08:35:07.600Z"
+    },
+    {
+      "id": "usr_customer_demo",
+      "name": "Karthik Raja",
+      "email": "customer@pvnutrition.com",
+      "phone": "98401 23456",
+      "password_hash": "$2b$10$tOJSOtpAb9Dpc8TL9xFuROhDQDNP7g6h9VdjM7gRmpodz0kKbItfC",
+      "role": "customer",
+      "is_verified": true,
+      "created_at": "2026-10-05T08:35:07.662Z",
+      "is_active": true,
+      "updated_at": "2026-10-23T06:46:34.145Z"
+    },
+    {
+      "id": "usr_1791453079974_o3mte",
+      "name": "ABINESH",
+      "email": "kannanabinesh271@gmail.com",
+      "phone": "8098712750",
+      "password_hash": "$2b$10$rH/5.hSei/BjofKpoloIWOm76Le.TGzjY5kUbUiboh5gC9aZnLMD2",
+      "role": "customer",
+      "created_at": "2026-10-08T09:51:19.974Z"
+    },
+    {
+      "id": "usr_1792688851908_mw2bi",
+      "gender": "Male",
+      "age": 17,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "ani",
+      "email": "abineshkannan06@gmail.com",
+      "phone": "8098712750",
+      "password_hash": "$2b$10$lU9C/GXHO7VrC61Q6PlUyOm3wTuly3Wyn.At6hyBz3Eb2VM8GIVYW",
+      "role": "customer",
+      "created_at": "2026-10-22T17:07:31.908Z",
+      "updated_at": "2026-10-22T17:08:36.025Z"
+    },
+    {
+      "id": "usr_1792734592482_kygsh",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": false,
+      "name": "Audit Customer",
+      "email": "audit_user_1792734592404@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$WiOgb2hp.0rRU9cXITN6iezUL.OseLjlMB8RowvsgQKXYn4.WTxku",
+      "role": "customer",
+      "created_at": "2026-10-23T05:49:52.482Z",
+      "updated_at": "2026-10-23T05:49:52.821Z"
+    },
+    {
+      "id": "usr_1792734690033_ucrfh",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": false,
+      "name": "Audit Customer",
+      "email": "audit_user_1792734689950@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$EVwvips6hxs6mLsfe7k4Be5RAUAwS5TIJhm8jbillQSsRM2/I8Csm",
+      "role": "customer",
+      "created_at": "2026-10-23T05:51:30.033Z",
+      "updated_at": "2026-10-23T05:51:30.472Z"
+    },
+    {
+      "id": "usr_1792735992172_5dnc3",
+      "gender": "Male",
+      "age": 19,
+      "dob": "",
+      "is_verified": false,
+      "is_active": true,
+      "name": "Abinesh Kannan",
+      "email": "harinishakc@gmail.com",
+      "phone": "08098712750",
+      "password_hash": "$2b$10$zz2j3kOOK5U1p3G7cEm30OMWW7UAYsc5wDCy5klUA0U3On.eoEPyC",
+      "role": "customer",
+      "created_at": "2026-10-23T06:13:12.172Z"
+    },
+    {
+      "id": "usr_1792737685030_atd74",
+      "gender": "Female",
+      "age": 26,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Live Email Tester",
+      "email": "customer_otp_1792737684762@example.com",
+      "phone": "9876543210",
+      "password_hash": "$2b$10$NmU4gSRM71xCpbnQUZU6fOXCyjHkxq.DwmojUNLYUmvaP3o7oZFR6",
+      "role": "customer",
+      "created_at": "2026-10-23T06:41:25.030Z",
+      "updated_at": "2026-10-23T06:41:25.166Z"
+    },
+    {
+      "id": "usr_1792737711715_i0j9d",
+      "gender": "Female",
+      "age": 26,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Live Email Tester",
+      "email": "customer_otp_1792737711473@example.com",
+      "phone": "9876543210",
+      "password_hash": "$2b$10$xGgY.beSP8b1zPKYov/KyeKl/QaRVKSeYpF6V0K7VDxyqB1FnBo6i",
+      "role": "customer",
+      "created_at": "2026-10-23T06:41:51.715Z",
+      "updated_at": "2026-10-23T06:41:51.810Z"
+    },
+    {
+      "id": "usr_1792737851734_9ocym",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Audit Customer",
+      "email": "audit_user_1792737851537@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$5/Ku9kC7Ldjmx4Knv9U0X.0yGbafjdOQNzmwjzlbH31ghTXaF0./y",
+      "role": "customer",
+      "created_at": "2026-10-23T06:44:11.734Z",
+      "updated_at": "2026-10-23T06:44:11.771Z"
+    },
+    {
+      "id": "usr_1792737868099_9ioes",
+      "gender": "Female",
+      "age": 26,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Live Email Tester",
+      "email": "customer_otp_1792737867898@example.com",
+      "phone": "9876543210",
+      "password_hash": "$2b$10$/glOLyxwo8OKKQSRKzKIJOyKYKD9/1G/lYJyyL9Z0dTIC23qoXxDO",
+      "role": "customer",
+      "created_at": "2026-10-23T06:44:28.099Z",
+      "updated_at": "2026-10-23T06:44:28.211Z"
+    },
+    {
+      "id": "usr_1792737961147_3mklf",
+      "gender": "Female",
+      "age": 26,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Live Email Tester",
+      "email": "customer_otp_1792737960958@example.com",
+      "phone": "9876543210",
+      "password_hash": "$2b$10$Ev7GFB5UCRj2k/TBmdprRurvC2p04dQsIh0eHG5EC.VT14MD8Gnla",
+      "role": "customer",
+      "created_at": "2026-10-23T06:46:01.147Z",
+      "updated_at": "2026-10-23T06:46:01.214Z"
+    },
+    {
+      "id": "usr_1792737965947_yhqzz",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Audit Customer",
+      "email": "audit_user_1792737965734@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$CE7oKaPNxJ3PfRW9oCmoceGPXJD20kw0pzUlp.E4h4BzT0v0e0z.e",
+      "role": "customer",
+      "created_at": "2026-10-23T06:46:05.947Z",
+      "updated_at": "2026-10-23T06:46:05.976Z"
+    },
+    {
+      "id": "usr_1792737986754_tdew9",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Audit Customer",
+      "email": "audit_user_1792737986559@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$2mRINixb9L3AHt0.T5Zi0.VrPeVL/b7rer5q0e1mS9pNBjwuxw6gq",
+      "role": "customer",
+      "created_at": "2026-10-23T06:46:26.754Z",
+      "updated_at": "2026-10-23T06:46:26.784Z"
+    },
+    {
+      "id": "usr_1792737992781_s6ii9",
+      "gender": "Female",
+      "age": 28,
+      "dob": "",
+      "is_verified": true,
+      "is_active": true,
+      "name": "Audit Customer",
+      "email": "audit_user_1792737992554@example.com",
+      "phone": "9888877777",
+      "password_hash": "$2b$10$rvJvSN9qeR7Dq3yFybAE9Ofob52ZiK.qvUBL/UgamqvF5UB.nwWWW",
+      "role": "customer",
+      "created_at": "2026-10-23T06:46:32.781Z",
+      "updated_at": "2026-10-23T06:46:32.813Z"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "cch_palani_01",
+      "user_id": "usr_coach_palani",
+      "name": "Palani Manickam",
+      "phone": "90477 93275",
+      "email": "palani@pvnutrition.com",
+      "bio": "Senior Wellness Coach specializing in Weight Management, Digestive & Bone Health, and Personalized 21 Days Wellness Transformation.",
+      "experience": "8+ Years",
+      "consultation_fee": 500,
+      "is_active": true,
+      "created_at": "2026-10-05T08:35:07.545Z",
+      "updated_at": "2026-10-06T09:05:06.591Z"
+    },
+    {
+      "id": "cch_vijayashanthi_02",
+      "user_id": "usr_coach_vijaya",
+      "name": "Vijayashanthi",
+      "phone": "74182 78569",
+      "email": "vijayashanthi@pvnutrition.com",
+      "bio": "Certified Wellness Coach dedicated to Skin Health, Children Nutrition, Family Fitness, and Lifestyle Wellness Coaching.",
+      "experience": "6+ Years",
+      "consultation_fee": 500,
+      "is_active": true,
+      "created_at": "2026-10-05T08:35:07.600Z"
+    }
+  ],
+  "consultations": [
+    {
+      "id": "cns_1791189818092_e62im",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_palani_01",
+      "fee": 500,
+      "status": "paid",
+      "payment_id": "pay_1791189818104_8ciry",
+      "created_at": "2026-10-05T08:43:38.092Z",
+      "paid_at": "2026-10-05T08:43:41.888Z"
+    },
+    {
+      "id": "cns_1791190544225_d0bxa",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_vijayashanthi_02",
+      "fee": 500,
+      "status": "paid",
+      "payment_id": "pay_1791275266435_ml9ad",
+      "created_at": "2026-10-05T08:55:44.225Z",
+      "paid_at": "2026-10-06T08:27:48.723Z"
+    },
+    {
+      "id": "cns_1791453096629_mur1l",
+      "customer_id": "usr_1791453079974_o3mte",
+      "coach_id": "cch_palani_01",
+      "fee": 500,
+      "status": "paid",
+      "payment_id": "pay_1791453096636_hiyc4",
+      "created_at": "2026-10-08T09:51:36.629Z",
+      "paid_at": "2026-10-08T09:51:37.951Z"
+    },
+    {
+      "id": "cns_1792734690316_kq3lr",
+      "customer_id": "usr_1792734690033_ucrfh",
+      "coach_id": "cch_palani_01",
+      "service_id": "srv_std_200",
+      "service_name": "Standard Nutrition Consultation",
+      "date": "2026-10-24",
+      "time_slot": "10:00 AM - 10:30 AM",
+      "fee": 200,
+      "status": "confirmed",
+      "payment_id": "pay_1792734690318_9s5an",
+      "coach_notes": "",
+      "reschedule_reason": "",
+      "cancellation_reason": "",
+      "created_at": "2026-10-23T05:51:30.316Z",
+      "paid_at": "2026-10-23T05:51:30.341Z"
+    },
+    {
+      "id": "cns_1792737852730_en9zl",
+      "customer_id": "usr_1792737851734_9ocym",
+      "coach_id": "cch_palani_01",
+      "service_id": "srv_std_200",
+      "service_name": "Standard Nutrition Consultation",
+      "date": "2026-10-28",
+      "time_slot": "11:30 AM - 12:00 PM",
+      "fee": 200,
+      "status": "confirmed",
+      "payment_id": "pay_1792737852747_829rw",
+      "coach_notes": "",
+      "reschedule_reason": "",
+      "cancellation_reason": "",
+      "created_at": "2026-10-23T06:44:12.730Z",
+      "paid_at": "2026-10-23T06:44:12.837Z"
+    },
+    {
+      "id": "cns_1792737987588_i05ni",
+      "customer_id": "usr_1792737986754_tdew9",
+      "coach_id": "cch_palani_01",
+      "service_id": "srv_std_200",
+      "service_name": "Standard Nutrition Consultation",
+      "date": "2026-11-21",
+      "time_slot": "10:00 AM - 10:30 AM",
+      "fee": 200,
+      "status": "confirmed",
+      "payment_id": "pay_1792737987598_a2uzv",
+      "coach_notes": "",
+      "reschedule_reason": "",
+      "cancellation_reason": "",
+      "created_at": "2026-10-23T06:46:27.588Z",
+      "paid_at": "2026-10-23T06:46:27.687Z"
+    },
+    {
+      "id": "cns_1792737993623_5w4lp",
+      "customer_id": "usr_1792737992781_s6ii9",
+      "coach_id": "cch_palani_01",
+      "service_id": "srv_std_200",
+      "service_name": "Standard Nutrition Consultation",
+      "date": "2026-10-27",
+      "time_slot": "10:00 AM - 10:30 AM",
+      "fee": 200,
+      "status": "confirmed",
+      "payment_id": "pay_1792737993630_j3su1",
+      "coach_notes": "",
+      "reschedule_reason": "",
+      "cancellation_reason": "",
+      "created_at": "2026-10-23T06:46:33.623Z",
+      "paid_at": "2026-10-23T06:46:33.700Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay_1791189818104_8ciry",
+      "status": "successful",
+      "consultation_id": "cns_1791189818092_e62im",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_palani_01",
+      "amount": 500,
+      "currency": "INR",
+      "razorpay_order_id": "order_1791189818098_05lhml",
+      "razorpay_payment_id": "pay_sim_nfm2sj2e",
+      "razorpay_signature": "test_sig_order_1791189818098_05lhml",
+      "created_at": "2026-10-05T08:43:38.104Z",
+      "verified_at": "2026-10-05T08:43:41.878Z"
+    },
+    {
+      "id": "pay_1791190544227_rai14",
+      "status": "created",
+      "consultation_id": "cns_1791190544225_d0bxa",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_vijayashanthi_02",
+      "amount": 500,
+      "currency": "INR",
+      "razorpay_order_id": "order_1791190544226_hncjyd",
+      "razorpay_payment_id": null,
+      "razorpay_signature": null,
+      "created_at": "2026-10-05T08:55:44.227Z"
+    },
+    {
+      "id": "pay_1791275266435_ml9ad",
+      "status": "successful",
+      "consultation_id": "cns_1791190544225_d0bxa",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_vijayashanthi_02",
+      "amount": 500,
+      "currency": "INR",
+      "razorpay_order_id": "order_1791275266429_gxa64m",
+      "razorpay_payment_id": "pay_sim_uhesq7ql",
+      "razorpay_signature": "test_sig_order_1791275266429_gxa64m",
+      "created_at": "2026-10-06T08:27:46.435Z",
+      "verified_at": "2026-10-06T08:27:48.711Z"
+    },
+    {
+      "id": "pay_1791453096636_hiyc4",
+      "status": "successful",
+      "consultation_id": "cns_1791453096629_mur1l",
+      "customer_id": "usr_1791453079974_o3mte",
+      "coach_id": "cch_palani_01",
+      "amount": 500,
+      "currency": "INR",
+      "razorpay_order_id": "order_1791453096632_vnm8sk",
+      "razorpay_payment_id": "pay_sim_a2zmy3ed",
+      "razorpay_signature": "test_sig_order_1791453096632_vnm8sk",
+      "created_at": "2026-10-08T09:51:36.636Z",
+      "verified_at": "2026-10-08T09:51:37.944Z"
+    },
+    {
+      "id": "pay_1792734690318_9s5an",
+      "status": "successful",
+      "method": "UPI / Card (Test Verified)",
+      "refund_reason": null,
+      "refunded_at": null,
+      "consultation_id": "cns_1792734690316_kq3lr",
+      "customer_id": "usr_1792734690033_ucrfh",
+      "coach_id": "cch_palani_01",
+      "service_name": "Standard Nutrition Consultation",
+      "amount": 200,
+      "currency": "INR",
+      "razorpay_order_id": "order_1792734690317_nyhh28",
+      "razorpay_payment_id": "pay_test_1792734690337",
+      "razorpay_signature": "test_sig_order_1792734690317_nyhh28",
+      "created_at": "2026-10-23T05:51:30.318Z",
+      "failed_at": "2026-10-23T05:51:30.323Z",
+      "updated_at": "2026-10-23T05:51:30.339Z",
+      "verified_at": "2026-10-23T05:51:30.338Z"
+    },
+    {
+      "id": "pay_1792737852747_829rw",
+      "status": "successful",
+      "method": "UPI / Card (Test Verified)",
+      "refund_reason": null,
+      "refunded_at": null,
+      "consultation_id": "cns_1792737852730_en9zl",
+      "customer_id": "usr_1792737851734_9ocym",
+      "coach_id": "cch_palani_01",
+      "service_name": "Standard Nutrition Consultation",
+      "amount": 200,
+      "currency": "INR",
+      "razorpay_order_id": "order_1792737852737_9arch1",
+      "razorpay_payment_id": "pay_test_1792737852815",
+      "razorpay_signature": "test_sig_order_1792737852737_9arch1",
+      "created_at": "2026-10-23T06:44:12.747Z",
+      "failed_at": "2026-10-23T06:44:12.772Z",
+      "updated_at": "2026-10-23T06:44:12.826Z",
+      "verified_at": "2026-10-23T06:44:12.822Z"
+    },
+    {
+      "id": "pay_1792737987598_a2uzv",
+      "status": "successful",
+      "method": "UPI / Card (Test Verified)",
+      "refund_reason": null,
+      "refunded_at": null,
+      "consultation_id": "cns_1792737987588_i05ni",
+      "customer_id": "usr_1792737986754_tdew9",
+      "coach_id": "cch_palani_01",
+      "service_name": "Standard Nutrition Consultation",
+      "amount": 200,
+      "currency": "INR",
+      "razorpay_order_id": "order_1792737987593_mgn3yd",
+      "razorpay_payment_id": "pay_test_1792737987666",
+      "razorpay_signature": "test_sig_order_1792737987593_mgn3yd",
+      "created_at": "2026-10-23T06:46:27.598Z",
+      "failed_at": "2026-10-23T06:46:27.622Z",
+      "updated_at": "2026-10-23T06:46:27.678Z",
+      "verified_at": "2026-10-23T06:46:27.675Z"
+    },
+    {
+      "id": "pay_1792737993630_j3su1",
+      "status": "successful",
+      "method": "UPI / Card (Test Verified)",
+      "refund_reason": null,
+      "refunded_at": null,
+      "consultation_id": "cns_1792737993623_5w4lp",
+      "customer_id": "usr_1792737992781_s6ii9",
+      "coach_id": "cch_palani_01",
+      "service_name": "Standard Nutrition Consultation",
+      "amount": 200,
+      "currency": "INR",
+      "razorpay_order_id": "order_1792737993626_x0i9s3",
+      "razorpay_payment_id": "pay_test_1792737993683",
+      "razorpay_signature": "test_sig_order_1792737993626_x0i9s3",
+      "created_at": "2026-10-23T06:46:33.630Z",
+      "failed_at": "2026-10-23T06:46:33.648Z",
+      "updated_at": "2026-10-23T06:46:33.693Z",
+      "verified_at": "2026-10-23T06:46:33.689Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1791189821905_lymw0",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_customer_demo",
+      "text": "Consultation activated! Payment of ₹500 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected.",
+      "timestamp": "2026-10-05T08:43:41.905Z"
+    },
+    {
+      "id": "msg_1791189835976_zsyhz",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "hii",
+      "timestamp": "2026-10-05T08:43:55.976Z"
+    },
+    {
+      "id": "msg_1791189951413_upgtm",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani, I am looking for a personalized weight management nutrition plan.",
+      "timestamp": "2026-10-05T08:45:51.413Z"
+    },
+    {
+      "id": "msg_1791190529661_3zmqe",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani! I need guidance for weight management.",
+      "timestamp": "2026-10-05T08:55:29.661Z"
+    },
+    {
+      "id": "msg_1791191069261_ltvzd",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "hii sir",
+      "timestamp": "2026-10-05T09:04:29.261Z"
+    },
+    {
+      "id": "msg_1791191091939_mipg0",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_coach_palani",
+      "sender_name": "Palani Manickam",
+      "sender_role": "coach",
+      "receiver_id": "usr_customer_demo",
+      "text": "yes",
+      "timestamp": "2026-10-05T09:04:51.939Z"
+    },
+    {
+      "id": "msg_1791275268734_9pp83",
+      "consultation_id": "cns_1791190544225_d0bxa",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_customer_demo",
+      "text": "Consultation activated! Payment of ₹500 successfully verified. Welcome to PV Nutrition Center. Coach Vijayashanthi is now connected.",
+      "timestamp": "2026-10-06T08:27:48.734Z"
+    },
+    {
+      "id": "msg_1791276402955_2kt7n",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Y",
+      "timestamp": "2026-10-06T08:46:42.955Z"
+    },
+    {
+      "id": "msg_1791276665886_s58j0",
+      "consultation_id": "cns_1791189818092_e62im",
+      "sender_id": "usr_customer_demo",
+      "sender_name": "Karthik Raja",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "HII",
+      "timestamp": "2026-10-06T08:51:05.886Z"
+    },
+    {
+      "id": "msg_1791453097959_ico75",
+      "consultation_id": "cns_1791453096629_mur1l",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_1791453079974_o3mte",
+      "text": "Consultation activated! Payment of ₹500 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected.",
+      "timestamp": "2026-10-08T09:51:37.959Z"
+    },
+    {
+      "id": "msg_1791453107721_tlvvv",
+      "consultation_id": "cns_1791453096629_mur1l",
+      "sender_id": "usr_1791453079974_o3mte",
+      "sender_name": "ABINESH",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "hii",
+      "timestamp": "2026-10-08T09:51:47.721Z"
+    },
+    {
+      "id": "msg_1792734690343_qmg9g",
+      "consultation_id": "cns_1792734690316_kq3lr",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_1792734690033_ucrfh",
+      "text": "Consultation activated! Payment of ₹200 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected. Scheduled slot: 2026-10-24 (10:00 AM - 10:30 AM).",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T05:51:30.343Z"
+    },
+    {
+      "id": "msg_1792734690373_z6job",
+      "consultation_id": "cns_1792734690316_kq3lr",
+      "sender_id": "usr_1792734690033_ucrfh",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani, I am ready for my wellness plan!",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T05:51:30.373Z"
+    },
+    {
+      "id": "msg_1792734690379_wlu6x",
+      "consultation_id": "cns_1792734690316_kq3lr",
+      "sender_id": "usr_1792734690033_ucrfh",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Sharing my dietary log",
+      "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "attachment_name": "diet_chart.png",
+      "attachment_type": "image/png",
+      "timestamp": "2026-10-23T05:51:30.379Z"
+    },
+    {
+      "id": "msg_1792737852854_vdv26",
+      "consultation_id": "cns_1792737852730_en9zl",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_1792737851734_9ocym",
+      "text": "Consultation activated! Payment of ₹200 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected. Scheduled slot: 2026-10-28 (11:30 AM - 12:00 PM).",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:44:12.854Z"
+    },
+    {
+      "id": "msg_1792737852968_xl4gt",
+      "consultation_id": "cns_1792737852730_en9zl",
+      "sender_id": "usr_1792737851734_9ocym",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani, I am ready for my wellness plan!",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:44:12.968Z"
+    },
+    {
+      "id": "msg_1792737852987_ow50p",
+      "consultation_id": "cns_1792737852730_en9zl",
+      "sender_id": "usr_1792737851734_9ocym",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Sharing my dietary log",
+      "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "attachment_name": "diet_chart.png",
+      "attachment_type": "image/png",
+      "timestamp": "2026-10-23T06:44:12.987Z"
+    },
+    {
+      "id": "msg_1792737987702_tmrwm",
+      "consultation_id": "cns_1792737987588_i05ni",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_1792737986754_tdew9",
+      "text": "Consultation activated! Payment of ₹200 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected. Scheduled slot: 2026-11-21 (10:00 AM - 10:30 AM).",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:46:27.702Z"
+    },
+    {
+      "id": "msg_1792737987801_7jz2q",
+      "consultation_id": "cns_1792737987588_i05ni",
+      "sender_id": "usr_1792737986754_tdew9",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani, I am ready for my wellness plan!",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:46:27.802Z"
+    },
+    {
+      "id": "msg_1792737987828_piggm",
+      "consultation_id": "cns_1792737987588_i05ni",
+      "sender_id": "usr_1792737986754_tdew9",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Sharing my dietary log",
+      "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "attachment_name": "diet_chart.png",
+      "attachment_type": "image/png",
+      "timestamp": "2026-10-23T06:46:27.828Z"
+    },
+    {
+      "id": "msg_1792737993710_q71wl",
+      "consultation_id": "cns_1792737993623_5w4lp",
+      "sender_id": "system",
+      "sender_name": "PV Nutrition Center",
+      "sender_role": "system",
+      "receiver_id": "usr_1792737992781_s6ii9",
+      "text": "Consultation activated! Payment of ₹200 successfully verified. Welcome to PV Nutrition Center. Coach Palani Manickam is now connected. Scheduled slot: 2026-10-27 (10:00 AM - 10:30 AM).",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:46:33.710Z"
+    },
+    {
+      "id": "msg_1792737993799_xh171",
+      "consultation_id": "cns_1792737993623_5w4lp",
+      "sender_id": "usr_1792737992781_s6ii9",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Hello Coach Palani, I am ready for my wellness plan!",
+      "attachment_url": null,
+      "attachment_name": null,
+      "attachment_type": null,
+      "timestamp": "2026-10-23T06:46:33.799Z"
+    },
+    {
+      "id": "msg_1792737993820_suxa0",
+      "consultation_id": "cns_1792737993623_5w4lp",
+      "sender_id": "usr_1792737992781_s6ii9",
+      "sender_name": "Audit Customer",
+      "sender_role": "customer",
+      "receiver_id": "usr_coach_palani",
+      "text": "Sharing my dietary log",
+      "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==",
+      "attachment_name": "diet_chart.png",
+      "attachment_type": "image/png",
+      "timestamp": "2026-10-23T06:46:33.820Z"
+    }
+  ],
+  "posters": [
+    {
+      "id": "post_01",
+      "title": "HEALTH IS WEALTH",
+      "subtitle": "Personalized Nutrition & Tailored 21 Days Wellness Transformation",
+      "image_url": "/wellness_hero.jpg",
+      "button_text": "Book Consultation",
+      "button_link": "coaches",
+      "order": 1,
+      "is_active": true,
+      "start_date": "2026-01-01",
+      "end_date": "2028-12-31",
+      "created_at": "2026-10-22T16:12:36.412Z"
+    },
+    {
+      "id": "post_02",
+      "title": "Transform Your Everyday Energy",
+      "subtitle": "Holistic Nutrition, Weight Balance & Cellular Vitality with Certified Advisors",
+      "image_url": "/banner.jpg",
+      "button_text": "Explore Packages",
+      "button_link": "services",
+      "order": 2,
+      "is_active": true,
+      "start_date": "2026-01-01",
+      "end_date": "2028-12-31",
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "post_03",
+      "title": "Complete Family & Children Nutrition",
+      "subtitle": "Science-backed guidance for balanced immunity, bone strength and natural glow",
+      "image_url": "/solutions.jpg",
+      "button_text": "Meet Our Coaches",
+      "button_link": "coaches",
+      "order": 3,
+      "is_active": true,
+      "start_date": "2026-01-01",
+      "end_date": "2028-12-31",
+      "created_at": "2026-10-22T16:12:36.413Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat_weight",
+      "name": "Weight Management",
+      "description": "Tailored calorie, protein and metabolism balance for sustainable weight loss or healthy gain.",
+      "icon": "Scale",
+      "order": 1,
+      "is_published": true,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "cat_skin",
+      "name": "Skin & Cellular Health",
+      "description": "Nutrient-rich internal cellular nourishment for radiant skin, anti-aging, and vital energy.",
+      "icon": "Sparkles",
+      "order": 2,
+      "is_published": true,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "cat_children",
+      "name": "Children & Family Nutrition",
+      "description": "Wholesome immune-strengthening meals for growing kids, family stamina, and balanced lifestyle.",
+      "icon": "HeartHandshake",
+      "order": 3,
+      "is_published": true,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "cat_gut",
+      "name": "Digestive & Gut Health",
+      "description": "Soothing gut-friendly meal planning for optimal digestion, metabolic absorption, and comfort.",
+      "icon": "Activity",
+      "order": 4,
+      "is_published": true,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv_quick_100",
+      "name": "Quick Wellness Query",
+      "category_id": "cat_weight",
+      "type": "consultation",
+      "price": 100,
+      "duration": "15 Mins",
+      "sessions": 1,
+      "validity_days": 3,
+      "chat_access_days": 3,
+      "description": "Quick focused session to address immediate dietary questions, routine checks, or quick lifestyle tips.",
+      "benefits": [
+        "15-minute direct chat consultation",
+        "Instant diet checklist",
+        "3 days chat validity"
+      ],
+      "is_published": true,
+      "order": 1,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "srv_std_200",
+      "name": "Standard Nutrition Consultation",
+      "category_id": "cat_weight",
+      "type": "consultation",
+      "price": 200,
+      "duration": "30 Mins",
+      "sessions": 1,
+      "validity_days": 7,
+      "chat_access_days": 7,
+      "description": "Comprehensive 1-on-1 assessment of your current eating habits, health goals, and preliminary meal roadmap.",
+      "benefits": [
+        "30-minute in-depth consultation",
+        "Personalized daily habit guide",
+        "7 days chat follow-up",
+        "Health assessment review"
+      ],
+      "is_published": true,
+      "order": 2,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "srv_deep_300",
+      "name": "Comprehensive Deep-Dive Consultation",
+      "category_id": "cat_gut",
+      "type": "consultation",
+      "price": 300,
+      "duration": "45 Mins",
+      "sessions": 1,
+      "validity_days": 14,
+      "chat_access_days": 14,
+      "description": "Thorough holistic evaluation including body measurements, metabolic markers, and customized nutritional strategy.",
+      "benefits": [
+        "45-minute comprehensive consultation",
+        "Complete customized meal schedule",
+        "14 days direct chat support",
+        "Body composition breakdown"
+      ],
+      "is_published": true,
+      "order": 3,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "srv_week_999",
+      "name": "7-Day Starter Wellness Kickstart",
+      "category_id": "cat_weight",
+      "type": "weekly_package",
+      "price": 999,
+      "duration": "7 Days",
+      "sessions": 3,
+      "validity_days": 10,
+      "chat_access_days": 10,
+      "description": "Structured 7-day program with 3 dedicated review sessions, daily chat accountability, and hydration & activity tracking.",
+      "benefits": [
+        "3 coach consultation sessions",
+        "Daily chat accountability",
+        "Hydration & routine tracking",
+        "Tailored starter meal plan"
+      ],
+      "is_published": true,
+      "order": 4,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "srv_trans_2499",
+      "name": "21-Day Wellness Transformation",
+      "category_id": "cat_skin",
+      "type": "monthly_package",
+      "price": 2499,
+      "duration": "21 Days",
+      "sessions": 6,
+      "validity_days": 30,
+      "chat_access_days": 30,
+      "description": "Signature 21-day program to reset digestion, shed stubborn fat, build muscle tone, and develop lasting lifestyle vitality.",
+      "benefits": [
+        "6 one-on-one video/chat check-ins",
+        "Full personalized 21-day nutrition blueprint",
+        "Weekly measurement & BMI chart reviews",
+        "Continuous priority coach access"
+      ],
+      "is_published": true,
+      "order": 5,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "srv_monthly_3999",
+      "name": "30-Day Complete Family Wellness",
+      "category_id": "cat_children",
+      "type": "monthly_package",
+      "price": 3999,
+      "duration": "30 Days",
+      "sessions": 8,
+      "validity_days": 45,
+      "chat_access_days": 45,
+      "description": "Holistic month-long coaching covering both adults and children with balanced immunity meals and weekly family check-ins.",
+      "benefits": [
+        "8 comprehensive coaching sessions",
+        "Family dietary plan & kids immunity guide",
+        "Unlimited private coach chat for 45 days",
+        "Custom progress tracking charts"
+      ],
+      "is_published": true,
+      "order": 6,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    }
+  ],
+  "health_assessments": [
+    {
+      "id": "hlth_demo_01",
+      "customer_id": "usr_customer_demo",
+      "height_cm": 165,
+      "weight_kg": 68,
+      "chest_in": 39,
+      "waist_in": 32,
+      "hips_in": 40,
+      "bmi": 25,
+      "bmi_category": "Overweight",
+      "health_history": "Occasional acidity and post-lunch lethargy. Family history of mild hypertension.",
+      "health_concerns": "Weight management and improving energy levels throughout the workday.",
+      "allergies": "Mild lactose sensitivity.",
+      "current_medications": "None.",
+      "diet_type": "Non-Vegetarian",
+      "meals_per_day": "3 meals + evening snack",
+      "water_liters": 2.5,
+      "junk_food_frequency": "1-2 times weekly",
+      "sleep_hours": 7.5,
+      "sleep_quality": "Fair",
+      "exercise_habits": "Brisk walking 3 days a week for 20 minutes",
+      "wellness_goals": [
+        "Weight Management",
+        "Skin Health"
+      ],
+      "consent_agreed": true,
+      "consent_timestamp": "2026-10-23T06:46:33.491Z",
+      "created_at": "2026-10-06T10:00:00.000Z",
+      "updated_at": "2026-10-23T06:46:33.491Z",
+      "age": 28,
+      "gender": "Female",
+      "activity_level": "Lightly Active",
+      "diet_preference": "Vegetarian",
+      "medical_conditions": "None"
+    },
+    {
+      "customer_id": "usr_1792734592482_kygsh",
+      "age": 28,
+      "gender": "Female",
+      "height_cm": 165,
+      "weight_kg": 68,
+      "waist_in": 32,
+      "wellness_goals": [
+        "Weight Management",
+        "Skin Health"
+      ],
+      "activity_level": "Lightly Active",
+      "water_liters": 2.5,
+      "sleep_hours": 7.5,
+      "diet_preference": "Vegetarian",
+      "medical_conditions": "None",
+      "consent_agreed": true,
+      "bmi": 25,
+      "bmi_category": "Overweight",
+      "consent_timestamp": "2026-10-23T05:49:52.741Z",
+      "updated_at": "2026-10-23T05:49:52.741Z",
+      "id": "hlth_1792734592741_lruo",
+      "created_at": "2026-10-23T05:49:52.741Z"
+    },
+    {
+      "customer_id": "usr_1792734690033_ucrfh",
+      "age": 28,
+      "gender": "Female",
+      "height_cm": 165,
+      "weight_kg": 68,
+      "waist_in": 32,
+      "wellness_goals": [
+        "Weight Management",
+        "Skin Health"
+      ],
+      "activity_level": "Lightly Active",
+      "water_liters": 2.5,
+      "sleep_hours": 7.5,
+      "diet_preference": "Vegetarian",
+      "medical_conditions": "None",
+      "consent_agreed": true,
+      "bmi": 25,
+      "bmi_category": "Overweight",
+      "consent_timestamp": "2026-10-23T05:51:30.285Z",
+      "updated_at": "2026-10-23T05:51:30.285Z",
+      "id": "hlth_1792734690285_pj3h",
+      "created_at": "2026-10-23T05:51:30.285Z"
+    }
+  ],
+  "wellness_progress": [
+    {
+      "id": "prg_01",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_palani_01",
+      "date": "2026-09-15",
+      "weight_kg": 81,
+      "waist_inches": 35.5,
+      "chest_inches": 40,
+      "hips_inches": 41,
+      "bmi": 26.4,
+      "water_liters": 2,
+      "energy_level": 6,
+      "notes": "Starting day of 21-day wellness challenge. Feeling motivated.",
+      "coach_feedback": "Great start Karthik! Remember to maintain morning warm water and timely breakfast.",
+      "created_at": "2026-09-15T09:00:00.000Z"
+    },
+    {
+      "id": "prg_02",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_palani_01",
+      "date": "2026-09-22",
+      "weight_kg": 79.5,
+      "waist_inches": 34.8,
+      "chest_inches": 39.5,
+      "hips_inches": 40.5,
+      "bmi": 25.9,
+      "water_liters": 2.8,
+      "energy_level": 7,
+      "notes": "Week 1 complete. Reduced late night snacks. Digestion is much better.",
+      "coach_feedback": "Excellent 1.5 kg reduction in week 1. Keep your daily water above 2.5L.",
+      "created_at": "2026-09-22T09:00:00.000Z"
+    },
+    {
+      "id": "prg_03",
+      "customer_id": "usr_customer_demo",
+      "coach_id": "cch_palani_01",
+      "date": "2026-09-29",
+      "weight_kg": 78.2,
+      "waist_inches": 34.2,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25.5,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Week 2 complete. Feeling lighter and morning energy has visibly improved.",
+      "coach_feedback": "Consistent progress! Waistline is trimming down nicely. Keep protein intake steady.",
+      "created_at": "2026-09-29T09:00:00.000Z"
+    },
+    {
+      "id": "prg_1792734592743_o4cx",
+      "customer_id": "usr_1792734592482_kygsh",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T05:49:52.743Z"
+    },
+    {
+      "id": "prg_1792734592796_cb4t",
+      "customer_id": "usr_1792734592482_kygsh",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T05:49:52.796Z"
+    },
+    {
+      "id": "prg_1792734690287_tpzx",
+      "customer_id": "usr_1792734690033_ucrfh",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T05:51:30.287Z"
+    },
+    {
+      "id": "prg_1792734690399_k2f1",
+      "customer_id": "usr_1792734690033_ucrfh",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T05:51:30.399Z",
+      "updated_at": "2026-10-23T05:51:30.410Z"
+    },
+    {
+      "id": "prg_1792736936757_7e9v",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:28:56.757Z"
+    },
+    {
+      "id": "prg_1792736937047_cawy",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:28:57.047Z",
+      "updated_at": "2026-10-23T06:28:57.092Z"
+    },
+    {
+      "id": "prg_1792737334413_ncmk",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:35:34.413Z"
+    },
+    {
+      "id": "prg_1792737334679_knhw",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:35:34.679Z",
+      "updated_at": "2026-10-23T06:35:34.719Z"
+    },
+    {
+      "id": "prg_1792737720340_entq",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:42:00.340Z"
+    },
+    {
+      "id": "prg_1792737720627_ttl1",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:42:00.627Z",
+      "updated_at": "2026-10-23T06:42:00.673Z"
+    },
+    {
+      "id": "prg_1792737852602_rnoi",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:44:12.602Z"
+    },
+    {
+      "id": "prg_1792737853053_yn4k",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:44:13.053Z",
+      "updated_at": "2026-10-23T06:44:13.099Z"
+    },
+    {
+      "id": "prg_1792737966766_upyd",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:46:06.767Z"
+    },
+    {
+      "id": "prg_1792737966994_aptv",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:46:06.994Z",
+      "updated_at": "2026-10-23T06:46:07.026Z"
+    },
+    {
+      "id": "prg_1792737987472_g8qx",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:46:27.472Z"
+    },
+    {
+      "id": "prg_1792737987891_i0la",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:46:27.892Z",
+      "updated_at": "2026-10-23T06:46:27.924Z"
+    },
+    {
+      "id": "prg_1792737993498_q193",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 68,
+      "waist_inches": 32,
+      "chest_inches": 39,
+      "hips_inches": 40,
+      "bmi": 25,
+      "water_liters": 2.5,
+      "energy_level": 7,
+      "notes": "Initial metrics recorded from Health Assessment form.",
+      "coach_feedback": "",
+      "created_at": "2026-10-23T06:46:33.498Z"
+    },
+    {
+      "id": "prg_1792737993890_6nr9",
+      "customer_id": "usr_customer_demo",
+      "coach_id": null,
+      "date": "2026-10-23",
+      "weight_kg": 67.2,
+      "waist_inches": 31.5,
+      "chest_inches": 0,
+      "hips_inches": 0,
+      "bmi": 24.7,
+      "water_liters": 3,
+      "energy_level": 8,
+      "notes": "Day 2 progress update.",
+      "coach_feedback": "Great improvement on hydration! Keep maintaining 3L daily.",
+      "created_at": "2026-10-23T06:46:33.890Z",
+      "updated_at": "2026-10-23T06:46:33.928Z"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq_01",
+      "name": "Meena Sundaram",
+      "email": "meena.s@example.com",
+      "phone": "98412 87654",
+      "service_interest": "Weight Management",
+      "message": "Interested in the 21 days wellness transformation for weight loss and post-pregnancy fitness.",
+      "status": "contacted",
+      "admin_note": "Called customer, shared coach Palani Manickam profile.",
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "enq_1792734592374_knxr",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T05:49:52.374Z"
+    },
+    {
+      "id": "enq_1792734689920_33nh",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T05:51:29.920Z"
+    },
+    {
+      "id": "enq_1792736902658_z7xl",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:28:22.658Z"
+    },
+    {
+      "id": "enq_1792736935829_tw42",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:28:55.829Z"
+    },
+    {
+      "id": "enq_1792737245833_ymxz",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:34:05.833Z"
+    },
+    {
+      "id": "enq_1792737333551_0bbb",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:35:33.552Z"
+    },
+    {
+      "id": "enq_1792737719428_iroo",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:41:59.428Z"
+    },
+    {
+      "id": "enq_1792737851505_mi7p",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:44:11.505Z"
+    },
+    {
+      "id": "enq_1792737965681_mdza",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:46:05.681Z"
+    },
+    {
+      "id": "enq_1792737986525_9d4s",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:46:26.525Z"
+    },
+    {
+      "id": "enq_1792737992522_8ftd",
+      "name": "Audit Tester",
+      "email": "audittester@example.com",
+      "phone": "9876543210",
+      "service_interest": "Weight Management",
+      "message": "Automated audit enquiry message verification.",
+      "status": "new",
+      "admin_note": "",
+      "created_at": "2026-10-23T06:46:32.522Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_welcome_admin",
+      "user_id": "usr_admin_001",
+      "title": "System Initialized",
+      "message": "PV Nutrition Center 14-Module Software System is active and healthy.",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "notif_welcome_cust",
+      "user_id": "usr_customer_demo",
+      "title": "Welcome to PV Nutrition Center",
+      "message": "Your wellness profile is activated. Explore consultation options from ₹100!",
+      "type": "booking",
+      "read": true,
+      "created_at": "2026-10-22T16:12:36.413Z"
+    },
+    {
+      "id": "notif_1792688851916_udf1",
+      "user_id": "usr_1792688851908_mw2bi",
+      "title": "Email Verification OTP",
+      "message": "Your PV Nutrition Center verification code is: 453157. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-22T17:07:31.916Z"
+    },
+    {
+      "id": "notif_1792688916031_c77l",
+      "user_id": "usr_1792688851908_mw2bi",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-22T17:08:36.031Z"
+    },
+    {
+      "id": "notif_1792734592377_bnza",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T05:49:52.377Z"
+    },
+    {
+      "id": "notif_1792734592484_816t",
+      "user_id": "usr_1792734592482_kygsh",
+      "title": "Email Verification OTP",
+      "message": "Your PV Nutrition Center verification code is: 600561. Valid for 10 minutes.",
+      "type": "otp",
+      "read": true,
+      "created_at": "2026-10-23T05:49:52.485Z"
+    },
+    {
+      "id": "notif_1792734592496_o62r",
+      "user_id": "usr_1792734592482_kygsh",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": true,
+      "created_at": "2026-10-23T05:49:52.496Z"
+    },
+    {
+      "id": "notif_1792734689924_2pv0",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T05:51:29.924Z"
+    },
+    {
+      "id": "notif_1792734690036_w2es",
+      "user_id": "usr_1792734690033_ucrfh",
+      "title": "Email Verification OTP",
+      "message": "Your PV Nutrition Center verification code is: 514656. Valid for 10 minutes.",
+      "type": "otp",
+      "read": true,
+      "created_at": "2026-10-23T05:51:30.036Z"
+    },
+    {
+      "id": "notif_1792734690051_ktk8",
+      "user_id": "usr_1792734690033_ucrfh",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": true,
+      "created_at": "2026-10-23T05:51:30.051Z"
+    },
+    {
+      "id": "notif_1792734690346_6ox5",
+      "user_id": "usr_1792734690033_ucrfh",
+      "title": "Consultation Confirmed",
+      "message": "Your booking with Palani Manickam on 2026-10-24 at 10:00 AM - 10:30 AM is confirmed! Chat is unlocked.",
+      "type": "payment",
+      "read": true,
+      "created_at": "2026-10-23T05:51:30.346Z"
+    },
+    {
+      "id": "notif_1792734690348_ztd2",
+      "user_id": "usr_coach_palani",
+      "title": "New Paid Booking",
+      "message": "Audit Customer booked a consultation for 2026-10-24 (10:00 AM - 10:30 AM). Fee: ₹200.",
+      "type": "booking",
+      "read": false,
+      "created_at": "2026-10-23T05:51:30.348Z"
+    },
+    {
+      "id": "notif_1792734690350_bk8g",
+      "user_id": "usr_admin_001",
+      "title": "New Payment Received",
+      "message": "₹200 received from Audit Customer for Palani Manickam.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T05:51:30.350Z"
+    },
+    {
+      "id": "notif_1792734690412_x3lb",
+      "user_id": "usr_1792734690033_ucrfh",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T05:51:30.412Z"
+    },
+    {
+      "id": "notif_1792735992181_v3ln",
+      "user_id": "usr_1792735992172_5dnc3",
+      "title": "Email Verification OTP",
+      "message": "Your PV Nutrition Center verification code is: 472300. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:13:12.181Z"
+    },
+    {
+      "id": "notif_1792736902671_4nrt",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:28:22.671Z"
+    },
+    {
+      "id": "notif_1792736935838_cgrz",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:28:55.838Z"
+    },
+    {
+      "id": "notif_1792736937103_994q",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:28:57.103Z"
+    },
+    {
+      "id": "notif_1792737245844_u45c",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:34:05.845Z"
+    },
+    {
+      "id": "notif_1792737333560_cgyg",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:35:33.560Z"
+    },
+    {
+      "id": "notif_1792737334729_3iu6",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:35:34.729Z"
+    },
+    {
+      "id": "notif_1792737685071_qevh",
+      "user_id": "usr_1792737685030_atd74",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to customer_otp_1792737684762@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:41:25.071Z"
+    },
+    {
+      "id": "notif_1792737685175_m3ab",
+      "user_id": "usr_1792737685030_atd74",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:41:25.175Z"
+    },
+    {
+      "id": "notif_1792737711729_nlqk",
+      "user_id": "usr_1792737711715_i0j9d",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to customer_otp_1792737711473@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:41:51.729Z"
+    },
+    {
+      "id": "notif_1792737711819_hol4",
+      "user_id": "usr_1792737711715_i0j9d",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:41:51.819Z"
+    },
+    {
+      "id": "notif_1792737719438_jjsv",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:41:59.438Z"
+    },
+    {
+      "id": "notif_1792737720684_pq1n",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:42:00.684Z"
+    },
+    {
+      "id": "notif_1792737851509_rz3t",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:44:11.509Z"
+    },
+    {
+      "id": "notif_1792737851745_22hl",
+      "user_id": "usr_1792737851734_9ocym",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to audit_user_1792737851537@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:44:11.745Z"
+    },
+    {
+      "id": "notif_1792737851804_dtt1",
+      "user_id": "usr_1792737851734_9ocym",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:44:11.805Z"
+    },
+    {
+      "id": "notif_1792737852863_1uiq",
+      "user_id": "usr_1792737851734_9ocym",
+      "title": "Consultation Confirmed",
+      "message": "Your booking with Palani Manickam on 2026-10-28 at 11:30 AM - 12:00 PM is confirmed! Chat is unlocked.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:44:12.863Z"
+    },
+    {
+      "id": "notif_1792737852876_jljn",
+      "user_id": "usr_coach_palani",
+      "title": "New Paid Booking",
+      "message": "Audit Customer booked a consultation for 2026-10-28 (11:30 AM - 12:00 PM). Fee: ₹200.",
+      "type": "booking",
+      "read": false,
+      "created_at": "2026-10-23T06:44:12.876Z"
+    },
+    {
+      "id": "notif_1792737852886_q8ud",
+      "user_id": "usr_admin_001",
+      "title": "New Payment Received",
+      "message": "₹200 received from Audit Customer for Palani Manickam.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:44:12.886Z"
+    },
+    {
+      "id": "notif_1792737853110_42m8",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:44:13.110Z"
+    },
+    {
+      "id": "notif_1792737868110_hcd7",
+      "user_id": "usr_1792737868099_9ioes",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to customer_otp_1792737867898@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:44:28.110Z"
+    },
+    {
+      "id": "notif_1792737868223_vkxd",
+      "user_id": "usr_1792737868099_9ioes",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:44:28.224Z"
+    },
+    {
+      "id": "notif_1792737961159_gak1",
+      "user_id": "usr_1792737961147_3mklf",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to customer_otp_1792737960958@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:46:01.159Z"
+    },
+    {
+      "id": "notif_1792737961224_ao8b",
+      "user_id": "usr_1792737961147_3mklf",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:01.224Z"
+    },
+    {
+      "id": "notif_1792737965689_03yu",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:05.689Z"
+    },
+    {
+      "id": "notif_1792737965954_633k",
+      "user_id": "usr_1792737965947_yhqzz",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to audit_user_1792737965734@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:46:05.954Z"
+    },
+    {
+      "id": "notif_1792737965981_d8we",
+      "user_id": "usr_1792737965947_yhqzz",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:05.981Z"
+    },
+    {
+      "id": "notif_1792737967033_upbx",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:46:07.033Z"
+    },
+    {
+      "id": "notif_1792737986531_j7s1",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:26.531Z"
+    },
+    {
+      "id": "notif_1792737986763_ceqb",
+      "user_id": "usr_1792737986754_tdew9",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to audit_user_1792737986559@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:46:26.763Z"
+    },
+    {
+      "id": "notif_1792737986790_5mkt",
+      "user_id": "usr_1792737986754_tdew9",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:26.790Z"
+    },
+    {
+      "id": "notif_1792737987711_d6ae",
+      "user_id": "usr_1792737986754_tdew9",
+      "title": "Consultation Confirmed",
+      "message": "Your booking with Palani Manickam on 2026-11-21 at 10:00 AM - 10:30 AM is confirmed! Chat is unlocked.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:46:27.711Z"
+    },
+    {
+      "id": "notif_1792737987720_6j3v",
+      "user_id": "usr_coach_palani",
+      "title": "New Paid Booking",
+      "message": "Audit Customer booked a consultation for 2026-11-21 (10:00 AM - 10:30 AM). Fee: ₹200.",
+      "type": "booking",
+      "read": false,
+      "created_at": "2026-10-23T06:46:27.720Z"
+    },
+    {
+      "id": "notif_1792737987730_5fhj",
+      "user_id": "usr_admin_001",
+      "title": "New Payment Received",
+      "message": "₹200 received from Audit Customer for Palani Manickam.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:46:27.730Z"
+    },
+    {
+      "id": "notif_1792737987933_befv",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:46:27.933Z"
+    },
+    {
+      "id": "notif_1792737992528_bw18",
+      "user_id": "usr_admin_001",
+      "title": "New Website Enquiry",
+      "message": "Enquiry from Audit Tester (audittester@example.com): \"Automated audit enquiry message verification....\"",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:32.528Z"
+    },
+    {
+      "id": "notif_1792737992790_6jgv",
+      "user_id": "usr_1792737992781_s6ii9",
+      "title": "Verification Email Sent",
+      "message": "A 6-digit verification code has been dispatched to audit_user_1792737992554@example.com. Valid for 10 minutes.",
+      "type": "otp",
+      "read": false,
+      "created_at": "2026-10-23T06:46:32.790Z"
+    },
+    {
+      "id": "notif_1792737992822_lhv9",
+      "user_id": "usr_1792737992781_s6ii9",
+      "title": "Email Verified",
+      "message": "Your email has been verified successfully. Welcome to PV Nutrition Center!",
+      "type": "system",
+      "read": false,
+      "created_at": "2026-10-23T06:46:32.822Z"
+    },
+    {
+      "id": "notif_1792737993717_44ve",
+      "user_id": "usr_1792737992781_s6ii9",
+      "title": "Consultation Confirmed",
+      "message": "Your booking with Palani Manickam on 2026-10-27 at 10:00 AM - 10:30 AM is confirmed! Chat is unlocked.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:46:33.717Z"
+    },
+    {
+      "id": "notif_1792737993726_ty5z",
+      "user_id": "usr_coach_palani",
+      "title": "New Paid Booking",
+      "message": "Audit Customer booked a consultation for 2026-10-27 (10:00 AM - 10:30 AM). Fee: ₹200.",
+      "type": "booking",
+      "read": false,
+      "created_at": "2026-10-23T06:46:33.726Z"
+    },
+    {
+      "id": "notif_1792737993733_74dw",
+      "user_id": "usr_admin_001",
+      "title": "New Payment Received",
+      "message": "₹200 received from Audit Customer for Palani Manickam.",
+      "type": "payment",
+      "read": false,
+      "created_at": "2026-10-23T06:46:33.733Z"
+    },
+    {
+      "id": "notif_1792737993937_5qi6",
+      "user_id": "usr_customer_demo",
+      "title": "New Coach Feedback",
+      "message": "Your coach commented on your progress update: \"Great improvement on hydration! Keep maintaining 3L daily.\"",
+      "type": "reminder",
+      "read": true,
+      "created_at": "2026-10-23T06:46:33.937Z"
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "log_1792688729932_13lu",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-22T17:05:29.932Z"
+    },
+    {
+      "id": "log_1792688851924_h564",
+      "user_id": "usr_1792688851908_mw2bi",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration: abineshkannan06@gmail.com",
+      "ip": "::1",
+      "timestamp": "2026-10-22T17:07:31.924Z"
+    },
+    {
+      "id": "log_1792688916039_9jj8",
+      "user_id": "usr_1792688851908_mw2bi",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: abineshkannan06@gmail.com",
+      "ip": "::1",
+      "timestamp": "2026-10-22T17:08:36.039Z"
+    },
+    {
+      "id": "log_1792733728997_dwon",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:35:28.997Z"
+    },
+    {
+      "id": "log_1792733737482_b2fw",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:35:37.482Z"
+    },
+    {
+      "id": "log_1792734592486_e5or",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration: audit_user_1792734592404@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.486Z"
+    },
+    {
+      "id": "log_1792734592500_6mhc",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792734592404@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.500Z"
+    },
+    {
+      "id": "log_1792734592577_f2t9",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "USER_LOGIN",
+      "details": "User logged in: audit_user_1792734592404@example.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.577Z"
+    },
+    {
+      "id": "log_1792734592745_4ee3",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by audit_user_1792734592404@example.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.745Z"
+    },
+    {
+      "id": "log_1792734592798_hb6s",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_1792734592482_kygsh: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.798Z"
+    },
+    {
+      "id": "log_1792734592822_8g0s",
+      "user_id": "usr_1792734592482_kygsh",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:49:52.822Z"
+    },
+    {
+      "id": "log_1792734690040_lsdp",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration: audit_user_1792734689950@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.040Z"
+    },
+    {
+      "id": "log_1792734690055_90mq",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792734689950@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.055Z"
+    },
+    {
+      "id": "log_1792734690138_d3a1",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "USER_LOGIN",
+      "details": "User logged in: audit_user_1792734689950@example.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.138Z"
+    },
+    {
+      "id": "log_1792734690213_36se",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.213Z"
+    },
+    {
+      "id": "log_1792734690280_apl2",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.280Z"
+    },
+    {
+      "id": "log_1792734690288_k40m",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by audit_user_1792734689950@example.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.288Z"
+    },
+    {
+      "id": "log_1792734690320_xoc2",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "PAYMENT_INITIATED",
+      "details": "Order created for Standard Nutrition Consultation (₹200) with coach Palani Manickam",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.320Z"
+    },
+    {
+      "id": "log_1792734690326_0xgt",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "PAYMENT_FAILED_SIGNATURE",
+      "details": "Signature verification failed for order order_1792734690317_nyhh28",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.326Z"
+    },
+    {
+      "id": "log_1792734690352_ei6u",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "PAYMENT_VERIFIED",
+      "details": "Payment successful (₹200) for consultation cns_1792734690316_kq3lr",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.352Z"
+    },
+    {
+      "id": "log_1792734690401_2uxy",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_1792734690033_ucrfh: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.401Z"
+    },
+    {
+      "id": "log_1792734690465_yzvh",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.465Z"
+    },
+    {
+      "id": "log_1792734690475_r5rt",
+      "user_id": "usr_1792734690033_ucrfh",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T05:51:30.475Z"
+    },
+    {
+      "id": "log_1792735992189_3xjl",
+      "user_id": "usr_1792735992172_5dnc3",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration: harinishakc@gmail.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:13:12.189Z"
+    },
+    {
+      "id": "log_1792736672704_0s47",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:24:32.704Z"
+    },
+    {
+      "id": "log_1792736865895_90kz",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:27:45.895Z"
+    },
+    {
+      "id": "log_1792736936178_llwk",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:56.178Z"
+    },
+    {
+      "id": "log_1792736936453_prne",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:56.453Z"
+    },
+    {
+      "id": "log_1792736936698_sa3g",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:56.698Z"
+    },
+    {
+      "id": "log_1792736936767_jp3i",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:56.767Z"
+    },
+    {
+      "id": "log_1792736937058_m6sg",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:57.058Z"
+    },
+    {
+      "id": "log_1792736937276_od2n",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:57.276Z"
+    },
+    {
+      "id": "log_1792736937316_nf10",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:28:57.316Z"
+    },
+    {
+      "id": "log_1792737246173_7x7d",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:34:06.173Z"
+    },
+    {
+      "id": "log_1792737246426_u1mn",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:34:06.426Z"
+    },
+    {
+      "id": "log_1792737246695_uolt",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:34:06.695Z"
+    },
+    {
+      "id": "log_1792737333847_w3zd",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:33.847Z"
+    },
+    {
+      "id": "log_1792737334116_gxrk",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.116Z"
+    },
+    {
+      "id": "log_1792737334382_yyps",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.382Z"
+    },
+    {
+      "id": "log_1792737334422_fw1b",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.422Z"
+    },
+    {
+      "id": "log_1792737334688_iibk",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.688Z"
+    },
+    {
+      "id": "log_1792737334861_drem",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.861Z"
+    },
+    {
+      "id": "log_1792737334888_v07t",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:35:34.888Z"
+    },
+    {
+      "id": "log_1792737500745_yt3u",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:38:20.745Z"
+    },
+    {
+      "id": "log_1792737685080_xu8o",
+      "user_id": "usr_1792737685030_atd74",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: customer_otp_1792737684762@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:25.080Z"
+    },
+    {
+      "id": "log_1792737685185_vh1p",
+      "user_id": "usr_1792737685030_atd74",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: customer_otp_1792737684762@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:25.185Z"
+    },
+    {
+      "id": "log_1792737685227_pcr8",
+      "user_id": "usr_1792737685030_atd74",
+      "action": "PASSWORD_RESET_REQUEST",
+      "details": "Reset code dispatched to customer_otp_1792737684762@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:25.227Z"
+    },
+    {
+      "id": "log_1792737711741_9vlb",
+      "user_id": "usr_1792737711715_i0j9d",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: customer_otp_1792737711473@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:51.741Z"
+    },
+    {
+      "id": "log_1792737711828_15ls",
+      "user_id": "usr_1792737711715_i0j9d",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: customer_otp_1792737711473@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:51.828Z"
+    },
+    {
+      "id": "log_1792737711865_659w",
+      "user_id": "usr_1792737711715_i0j9d",
+      "action": "PASSWORD_RESET_REQUEST",
+      "details": "Reset code dispatched to customer_otp_1792737711473@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:51.865Z"
+    },
+    {
+      "id": "log_1792737719754_vq6b",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:41:59.754Z"
+    },
+    {
+      "id": "log_1792737720042_7ifz",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.042Z"
+    },
+    {
+      "id": "log_1792737720305_uore",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.305Z"
+    },
+    {
+      "id": "log_1792737720352_p5dv",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.352Z"
+    },
+    {
+      "id": "log_1792737720638_bo2o",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.638Z"
+    },
+    {
+      "id": "log_1792737720870_wg1p",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.870Z"
+    },
+    {
+      "id": "log_1792737720909_913h",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:00.909Z"
+    },
+    {
+      "id": "log_1792737721022_ci0p",
+      "user_id": "usr_admin_001",
+      "action": "ACCOUNT_REACTIVATED",
+      "details": "Account reactivated by admin: usr_customer_demo",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:42:01.022Z"
+    },
+    {
+      "id": "log_1792737851752_34e1",
+      "user_id": "usr_1792737851734_9ocym",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: audit_user_1792737851537@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:11.752Z"
+    },
+    {
+      "id": "log_1792737851813_499z",
+      "user_id": "usr_1792737851734_9ocym",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792737851537@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:11.813Z"
+    },
+    {
+      "id": "log_1792737852050_n7m0",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.050Z"
+    },
+    {
+      "id": "log_1792737852260_mgs7",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.260Z"
+    },
+    {
+      "id": "log_1792737852559_fur9",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.559Z"
+    },
+    {
+      "id": "log_1792737852620_k9x2",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.620Z"
+    },
+    {
+      "id": "log_1792737852759_jn63",
+      "user_id": "usr_1792737851734_9ocym",
+      "action": "PAYMENT_INITIATED",
+      "details": "Order created for Standard Nutrition Consultation (₹200) with coach Palani Manickam",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.759Z"
+    },
+    {
+      "id": "log_1792737852786_9g26",
+      "user_id": "usr_1792737851734_9ocym",
+      "action": "PAYMENT_FAILED_SIGNATURE",
+      "details": "Signature verification failed for order order_1792737852737_9arch1",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.786Z"
+    },
+    {
+      "id": "log_1792737852898_cfnb",
+      "user_id": "usr_1792737851734_9ocym",
+      "action": "PAYMENT_VERIFIED",
+      "details": "Payment successful (₹200) for consultation cns_1792737852730_en9zl",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:12.898Z"
+    },
+    {
+      "id": "log_1792737853063_23ng",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:13.064Z"
+    },
+    {
+      "id": "log_1792737853290_953y",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:13.290Z"
+    },
+    {
+      "id": "log_1792737853324_zuf9",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:13.324Z"
+    },
+    {
+      "id": "log_1792737853361_tirw",
+      "user_id": "usr_admin_001",
+      "action": "ACCOUNT_REACTIVATED",
+      "details": "Account reactivated by admin: usr_customer_demo",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:13.361Z"
+    },
+    {
+      "id": "log_1792737868118_1h0b",
+      "user_id": "usr_1792737868099_9ioes",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: customer_otp_1792737867898@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:28.118Z"
+    },
+    {
+      "id": "log_1792737868235_hyio",
+      "user_id": "usr_1792737868099_9ioes",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: customer_otp_1792737867898@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:28.235Z"
+    },
+    {
+      "id": "log_1792737868275_k5it",
+      "user_id": "usr_1792737868099_9ioes",
+      "action": "PASSWORD_RESET_REQUEST",
+      "details": "Reset code dispatched to customer_otp_1792737867898@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:44:28.275Z"
+    },
+    {
+      "id": "log_1792737961164_5s34",
+      "user_id": "usr_1792737961147_3mklf",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: customer_otp_1792737960958@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:01.164Z"
+    },
+    {
+      "id": "log_1792737961233_ne29",
+      "user_id": "usr_1792737961147_3mklf",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: customer_otp_1792737960958@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:01.233Z"
+    },
+    {
+      "id": "log_1792737961277_1y90",
+      "user_id": "usr_1792737961147_3mklf",
+      "action": "PASSWORD_RESET_REQUEST",
+      "details": "Reset code dispatched to customer_otp_1792737960958@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:01.277Z"
+    },
+    {
+      "id": "log_1792737965961_dqs6",
+      "user_id": "usr_1792737965947_yhqzz",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: audit_user_1792737965734@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:05.961Z"
+    },
+    {
+      "id": "log_1792737965986_efev",
+      "user_id": "usr_1792737965947_yhqzz",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792737965734@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:05.986Z"
+    },
+    {
+      "id": "log_1792737966204_diom",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:06.204Z"
+    },
+    {
+      "id": "log_1792737966461_y49i",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:06.461Z"
+    },
+    {
+      "id": "log_1792737966735_atnl",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:06.735Z"
+    },
+    {
+      "id": "log_1792737966775_crzy",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:06.775Z"
+    },
+    {
+      "id": "log_1792737967001_8vjy",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:07.001Z"
+    },
+    {
+      "id": "log_1792737967125_vvtk",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:07.125Z"
+    },
+    {
+      "id": "log_1792737967165_4xfd",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:07.165Z"
+    },
+    {
+      "id": "log_1792737967188_8ttn",
+      "user_id": "usr_admin_001",
+      "action": "ACCOUNT_REACTIVATED",
+      "details": "Account reactivated by admin: usr_customer_demo",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:07.188Z"
+    },
+    {
+      "id": "log_1792737986770_8zt1",
+      "user_id": "usr_1792737986754_tdew9",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: audit_user_1792737986559@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:26.770Z"
+    },
+    {
+      "id": "log_1792737986795_iw7q",
+      "user_id": "usr_1792737986754_tdew9",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792737986559@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:26.795Z"
+    },
+    {
+      "id": "log_1792737986991_z3v6",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:26.991Z"
+    },
+    {
+      "id": "log_1792737987220_35ps",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.220Z"
+    },
+    {
+      "id": "log_1792737987446_gcam",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.446Z"
+    },
+    {
+      "id": "log_1792737987483_ode3",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.483Z"
+    },
+    {
+      "id": "log_1792737987610_hx5l",
+      "user_id": "usr_1792737986754_tdew9",
+      "action": "PAYMENT_INITIATED",
+      "details": "Order created for Standard Nutrition Consultation (₹200) with coach Palani Manickam",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.610Z"
+    },
+    {
+      "id": "log_1792737987637_uavg",
+      "user_id": "usr_1792737986754_tdew9",
+      "action": "PAYMENT_FAILED_SIGNATURE",
+      "details": "Signature verification failed for order order_1792737987593_mgn3yd",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.637Z"
+    },
+    {
+      "id": "log_1792737987738_zglm",
+      "user_id": "usr_1792737986754_tdew9",
+      "action": "PAYMENT_VERIFIED",
+      "details": "Payment successful (₹200) for consultation cns_1792737987588_i05ni",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.738Z"
+    },
+    {
+      "id": "log_1792737987898_5b8u",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:27.898Z"
+    },
+    {
+      "id": "log_1792737988051_oniz",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:28.051Z"
+    },
+    {
+      "id": "log_1792737988076_4y0n",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:28.076Z"
+    },
+    {
+      "id": "log_1792737988130_zfyn",
+      "user_id": "usr_admin_001",
+      "action": "ACCOUNT_REACTIVATED",
+      "details": "Account reactivated by admin: usr_customer_demo",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:28.130Z"
+    },
+    {
+      "id": "log_1792737992798_z4z5",
+      "user_id": "usr_1792737992781_s6ii9",
+      "action": "USER_REGISTERED",
+      "details": "New customer registration initiated: audit_user_1792737992554@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:32.799Z"
+    },
+    {
+      "id": "log_1792737992828_izc9",
+      "user_id": "usr_1792737992781_s6ii9",
+      "action": "EMAIL_VERIFIED",
+      "details": "User email verified: audit_user_1792737992554@example.com",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:32.828Z"
+    },
+    {
+      "id": "log_1792737993033_1ofp",
+      "user_id": "usr_customer_demo",
+      "action": "USER_LOGIN",
+      "details": "User logged in: customer@pvnutrition.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.033Z"
+    },
+    {
+      "id": "log_1792737993259_m5la",
+      "user_id": "usr_admin_001",
+      "action": "USER_LOGIN",
+      "details": "User logged in: admin@pvnutrition.com (admin)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.260Z"
+    },
+    {
+      "id": "log_1792737993475_fj0g",
+      "user_id": "usr_coach_palani",
+      "action": "USER_LOGIN",
+      "details": "User logged in: palani@pvnutrition.com (coach)",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.476Z"
+    },
+    {
+      "id": "log_1792737993507_q73q",
+      "user_id": "usr_customer_demo",
+      "action": "HEALTH_ASSESSMENT_SAVED",
+      "details": "Health assessment submitted by customer@pvnutrition.com. BMI: 25",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.507Z"
+    },
+    {
+      "id": "log_1792737993636_xxtt",
+      "user_id": "usr_1792737992781_s6ii9",
+      "action": "PAYMENT_INITIATED",
+      "details": "Order created for Standard Nutrition Consultation (₹200) with coach Palani Manickam",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.636Z"
+    },
+    {
+      "id": "log_1792737993659_sktm",
+      "user_id": "usr_1792737992781_s6ii9",
+      "action": "PAYMENT_FAILED_SIGNATURE",
+      "details": "Signature verification failed for order order_1792737993626_x0i9s3",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.659Z"
+    },
+    {
+      "id": "log_1792737993738_r3kh",
+      "user_id": "usr_1792737992781_s6ii9",
+      "action": "PAYMENT_VERIFIED",
+      "details": "Payment successful (₹200) for consultation cns_1792737993623_5w4lp",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.738Z"
+    },
+    {
+      "id": "log_1792737993898_cjpr",
+      "user_id": "usr_customer_demo",
+      "action": "PROGRESS_LOGGED",
+      "details": "Progress record added for usr_customer_demo: 67.2kg",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:33.898Z"
+    },
+    {
+      "id": "log_1792737994090_4jbr",
+      "user_id": "usr_admin_001",
+      "action": "DATABASE_BACKUP_EXPORTED",
+      "details": "Admin exported scrubbed database backup",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:34.090Z"
+    },
+    {
+      "id": "log_1792737994123_drx5",
+      "user_id": "usr_customer_demo",
+      "action": "ACCOUNT_DEACTIVATED",
+      "details": "Account deactivated by user",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:34.123Z"
+    },
+    {
+      "id": "log_1792737994155_sqg3",
+      "user_id": "usr_admin_001",
+      "action": "ACCOUNT_REACTIVATED",
+      "details": "Account reactivated by admin: usr_customer_demo",
+      "ip": "::1",
+      "timestamp": "2026-10-23T06:46:34.155Z"
+    },
+    {
+      "id": "log_1793371102895_9g7e",
+      "user_id": "usr_1791453079974_o3mte",
+      "action": "USER_LOGIN",
+      "details": "User logged in: kannanabinesh271@gmail.com (customer)",
+      "ip": "::1",
+      "timestamp": "2026-10-30T14:38:22.895Z"
+    }
+  ],
+  "system_settings": {
+    "centre_name": "PV Nutrition Center",
+    "tagline": "HEALTH IS WEALTH - Online Consultation & Lifestyle Wellness",
+    "address": "PV Nutrition Center, Main Road, Thanjavur, Tamil Nadu 613001",
+    "phone_primary": "90477 93275",
+    "phone_secondary": "74182 78569",
+    "email": "contact@pvnutrition.com",
+    "working_hours": "Mon - Sat: 7:00 AM - 8:30 PM | Sun: 8:00 AM - 1:00 PM",
+    "razorpay_test_mode": true,
+    "notifications_enabled": {
+      "email_otp": true,
+      "booking_confirmation": true,
+      "payment_alert": true,
+      "appointment_reminder": true,
+      "package_expiry": true
+    }
+  }
+}
